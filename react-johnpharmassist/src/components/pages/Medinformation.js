@@ -4,11 +4,12 @@ import Inform from "../Inform";
 import Footer from "../Footer";
 
 
+
 export function Medinformation() {
    return (
      <>
-       <Inform/>
-       <Footer/>
+       <Inform />
+       <Footer />
      </>
    );
 }

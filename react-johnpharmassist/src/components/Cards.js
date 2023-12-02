@@ -17,7 +17,7 @@ function Cards() {
               external={true}
               path="https://www.who.int/europe/emergencies/situations/covid-19"
             />
-
+  
             <CardItem
               src="images/article2.jpg"
               text="What is Modern Medicine?"
